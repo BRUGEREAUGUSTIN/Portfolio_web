@@ -1,0 +1,1 @@
+<?php header('location: https://olen-ort.fr/P2023/SIO/BRUGERE/Portfolio/src/View/index.php');
