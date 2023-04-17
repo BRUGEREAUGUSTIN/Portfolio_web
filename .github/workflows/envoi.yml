@@ -14,6 +14,6 @@ jobs:
           server: access914943276.webspace-data.io
           port: 22
           local_path: './*'
-          remote_path: '/'
+          remote_path: '/Portfolio/'
           sftp_only: true
           password: BRUGEREort2023
