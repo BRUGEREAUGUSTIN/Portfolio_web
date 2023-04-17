@@ -13,7 +13,7 @@ jobs:
           username: u2009915384
           server: access914943276.webspace-data.io
           port: 22
-          local_path: './Portfolio/*'
+          local_path: './Portfolio'
           remote_path: '/'
           sftp_only: true
           password: BRUGEREort2023
