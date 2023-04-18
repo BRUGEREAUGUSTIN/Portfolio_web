@@ -4,7 +4,7 @@ include_once("../../public/inc/nav.php");
 ?>
 <div class="jumbotron d-flex align-items-center">
     <div class="container text-center">
-        <h1 class="display-1 mb-4">PORT<br>FOLIO</h1>
+        <h1 class="display-1 mb-4">PORT<br>FOLIOS</h1>
     </div>
     <div class="rectangle-1"></div>
     <div class="rectangle-2"></div>
